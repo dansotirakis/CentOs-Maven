@@ -1,1 +1,4 @@
-# CentOS
+# CentOS - Boxes - Vagrant
+
+# JDK
+# MAVEN
